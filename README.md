@@ -3,19 +3,21 @@ This repository is for the paper: [Cott-ADNet: Lightweight Real-Time Cotton Boll
 
 The paper is accepted by Accepted to **HARVEST-Vision 2026** (Second International Workshop on Applications of CV and HPC in Agriculture), in conjunction with **IEEE/CVF WACV 2026**.
 
-## Overview
+## Overview of the Cott-ADNet
 <p align="center">
   <img src="assets/Main Fig-New.png" width="800">
   <br>
   <em>Overview of Cott-ADNet framework and its key modules.</em>
 </p>
 
+## Samples of External Test Set
 <p align="center">
   <img src="assets/DataSample.png" width="800">
   <br>
-  <em>Data Sample of independent External Test Set.</em>
+  <em>Data Samples of independent External Test Set.</em>
 </p>
 
+## Performance
 <p align="center">
   <img src="assets/External Performance-Github.jpg" width="800">
   <br>
