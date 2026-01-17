@@ -25,7 +25,7 @@ The paper is accepted by Accepted to **HARVEST-Vision 2026** (Second Internation
 </p>
 
 ## Dataset
-The External Test Set has been released on 
+The External Test Set has been released on [Kaggle--Cotton Boll and Flowers Recognition Dataset](https://www.kaggle.com/datasets/sweefongwong/cotton-boll-and-flowers-recognition-dataset).
 
 
 ## Citation
